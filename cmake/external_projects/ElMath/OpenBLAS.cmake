@@ -26,6 +26,8 @@ if(CMAKE_Fortran_COMPILER_ID MATCHES "GNU")
                      /usr/lib/gcc/x86_64-linux-gnu/4.9
                      /usr/lib/gcc/x86_64-linux-gnu/5
                      /usr/lib/gcc/x86_64-linux-gnu/6
+                     /usr/lib/gcc/x86_64-linux-gnu/7
+                     /usr/lib/gcc/x86_64-linux-gnu/9
                      /lib/x86_64-linux-gnu
                      /usr/lib/x86_64-linux-gnu
                      /usr/lib/openblas-base
